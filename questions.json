@@ -285,5 +285,355 @@
       "10 mars 1950"
     ],
     "reponse": 1
+  },
+  {
+    "question": "Quelle est la définition de l'énergie ?",
+    "choix": [
+      "La capacité d'un système à provoquer un changement",
+      "L'énergie produite par le vent",
+      "La chaleur émise par les appareils électriques",
+      "Le travail mécanique effectué par un moteur"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle unité est utilisée pour mesurer l'énergie contenue dans une tonne de pétrole ?",
+    "choix": [
+      "Kilowatt-heure (kWh)",
+      "Tonne équivalent pétrole (tep)",
+      "British Thermal Unit (BTU)",
+      "Joule (J)"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est la principale source d'énergie pour la Terre ?",
+    "choix": [
+      "Les énergies fossiles",
+      "Le Soleil",
+      "Le vent",
+      "Les énergies renouvelables"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Pourquoi les énergies fossiles dominent-elles ?",
+    "choix": [
+      "Leur densité énergétique élevée et leur faible coût",
+      "Leur abondance illimitée",
+      "Leur faible impact environnemental",
+      "Leur utilisation uniquement pour le transport"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la différence entre énergie primaire, finale et utile ?",
+    "choix": [
+      "Elles sont identiques mais utilisées différemment",
+      "Énergie primaire : avant transformation ; Énergie finale : livrée au consommateur ; Énergie utile : exploitée pour un service spécifique",
+      "Elles dépendent uniquement de la source utilisée",
+      "Ces termes sont synonymes"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel secteur consomme le plus d'énergie dans les bâtiments ?",
+    "choix": [
+      "La climatisation",
+      "Le chauffage",
+      "Les appareils électroniques",
+      "L'éclairage"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle boucle de rétroaction amplifie le réchauffement climatique ?",
+    "choix": [
+      "Température-CO2 dissout",
+      "Température-albédo",
+      "Température-vapeur d'eau",
+      "Toutes les réponses"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Quel indicateur mesure la part des dépenses énergétiques d'un ménage par rapport à ses revenus ?",
+    "choix": [
+      "Taux de pauvreté",
+      "Taux d'effort énergétique (TEE)",
+      "Indice de précarité énergétique",
+      "Échelle de consommation énergétique"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel scénario des émissions de CO₂ prévoit une transition énergétique 100% renouvelable ?",
+    "choix": [
+      "Scénarios RTE",
+      "Scénario négaWatt",
+      "Scénarios ADEME (S4)",
+      "Scénarios N03"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel est l'objectif principal de l'Accord de Paris ?",
+    "choix": [
+      "Neutralité carbone d'ici 2100",
+      "Limiter le réchauffement climatique à +1,5°C",
+      "Augmenter les investissements en énergies fossiles",
+      "Réduire la consommation énergétique de 10%"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est la définition exacte de l'énergie telle qu'expliquée dans le document ?",
+    "choix": [
+      "La capacité d'un système à effectuer un travail mécanique uniquement.",
+      "La capacité d'un système à provoquer un changement, comme produire du mouvement, de la chaleur ou de la lumière.",
+      "Une force exercée sur une distance pour produire de l'énergie.",
+      "Une source naturelle utilisée pour alimenter les machines."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle unité d'énergie suivante n'est PAS utilisée pour mesurer l'énergie dans le document ?",
+    "choix": [
+      "Joule (J)",
+      "Kilowatt-heure (kWh)",
+      "British Thermal Unit (BTU)",
+      "Newton-mètre (Nm)"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Pourquoi les énergies fossiles dominent-elles encore la consommation mondiale selon le document ?",
+    "choix": [
+      "Elles sont les seules disponibles en grandes quantités.",
+      "Elles ont une densité énergétique élevée, sont faciles à utiliser et bon marché.",
+      "Elles ne produisent pas de gaz à effet de serre.",
+      "Elles sont soutenues par des subventions massives dans tous les pays."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Dans le contexte énergétique, qu'entend-on par 'énergie finale' ?",
+    "choix": [
+      "L'énergie disponible avant toute transformation.",
+      "L'énergie livrée au consommateur après transformation et transport.",
+      "L'énergie réellement exploitée pour un service spécifique.",
+      "L'énergie perdue dans le processus de conversion."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est la densité énergétique approximative du bois, en kWh/kg ?",
+    "choix": ["6,6 kWh/kg", "4,5 kWh/kg", "12,6 kWh/kg", "0,1 kWh/kg"],
+    "reponse": 2
+  },
+  {
+    "question": "Le Taux de Retour Énergétique (TRE) du pétrole non conventionnel est :",
+    "choix": [
+      "Équivalent à celui des énergies fossiles conventionnelles.",
+      "Supérieur à celui des énergies renouvelables.",
+      "Inférieur, en raison de la complexité et du coût de son extraction.",
+      "Négatif en raison des émissions de CO₂ associées."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel pourcentage de l'énergie mondiale est consommée par le secteur tertiaire selon le document ?",
+    "choix": ["15%", "25%", "10%", "30%"],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle caractéristique des cycles de Milankovitch influence directement les périodes glaciaires et interglaciaires ?",
+    "choix": [
+      "La composition chimique des océans.",
+      "La variation de l'orbite terrestre et de l'inclinaison de son axe.",
+      "Les fluctuations de la luminosité solaire.",
+      "L'activité volcanique intense."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Selon les scénarios RTE, quelle combinaison d'énergie est considérée pour une transition énergétique ?",
+    "choix": [
+      "Uniquement les énergies fossiles avec réduction des émissions.",
+      "Une combinaison d'énergies renouvelables et de nucléaire.",
+      "Principalement des énergies fossiles avec développement de captage de carbone.",
+      "Un passage direct à une économie basée sur l'hydrogène."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est l'explication correcte de la boucle température-albédo ?",
+    "choix": [
+      "Lorsque la température augmente, la glace se forme et augmente l'albédo, ce qui refroidit la Terre.",
+      "Lorsque la température baisse, la glace fond, diminuant l'albédo et réchauffant la planète.",
+      "Lorsque la température augmente, la glace fond, réduisant l'albédo et augmentant l'absorption de chaleur.",
+      "Lorsque la température baisse, l'eau absorbe plus de CO₂, amplifiant l'effet de serre."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle est la principale source d'énergie reçue par la Terre, selon le document ?",
+    "choix": [
+      "Le volcanisme.",
+      "La géothermie.",
+      "Le Soleil.",
+      "Les rayons cosmiques."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Dans le scénario négaWatt, quel levier est mis en avant pour réduire la consommation énergétique ?",
+    "choix": [
+      "L'augmentation des subventions pour les énergies fossiles.",
+      "L'optimisation des réseaux énergétiques pour limiter les pertes.",
+      "La sobriété énergétique et l'efficacité énergétique.",
+      "La construction massive de centrales nucléaires."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Selon les scénarios ADEME, quel scénario favorise une approche locale et solidaire ?",
+    "choix": [
+      "Génération frugale.",
+      "Coopérations territoriales.",
+      "Technologies vertes.",
+      "Pari réparateur."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle proportion des émissions de gaz à effet de serre est absorbée par les océans aujourd'hui ?",
+    "choix": ["Environ 50%.", "Environ 93%.", "Environ 25%.", "Environ 70%."],
+    "reponse": 3
+  },
+  {
+    "question": "Quel gaz à effet de serre a le pouvoir de réchauffement le plus important par molécule ?",
+    "choix": ["CO₂", "CH₄ (méthane)", "Ozone (O₃)", "N₂O (protoxyde d'azote)"],
+    "reponse": 2
+  },
+  {
+    "question": "Quels secteurs économiques en France contribuent le plus aux émissions de CO₂ selon le document ?",
+    "choix": [
+      "L'agriculture et les bâtiments.",
+      "L'industrie et les transports.",
+      "Le numérique et les services.",
+      "Les importations et les exportations."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel est l'impact principal de l'augmentation de la température des océans sur leur capacité à stocker du CO₂ ?",
+    "choix": [
+      "Les océans stockent davantage de CO₂ à mesure qu'ils se réchauffent.",
+      "La capacité des océans à stocker du CO₂ diminue avec l'augmentation de leur température.",
+      "Les océans libèrent du méthane à la place du CO₂.",
+      "La température des océans n'affecte pas leur stockage de CO₂."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel scénario RTE inclut le développement de petits réacteurs nucléaires modulaires (SMR) ?",
+    "choix": ["M0", "N1", "N03", "M23"],
+    "reponse": 3
+  },
+  {
+    "question": "Qu'est-ce qui caractérise la 'précarité énergétique' telle qu'elle est décrite dans le document ?",
+    "choix": [
+      "Un manque d'accès aux énergies fossiles.",
+      "Une part importante des revenus d'un ménage consacrée aux dépenses énergétiques.",
+      "L'incapacité à produire de l'énergie renouvelable domestique.",
+      "Une consommation excessive d'énergie par les industries."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle technologie est considérée comme un levier clé pour la décarbonation selon les scénarios prospectifs ?",
+    "choix": [
+      "Les énergies fossiles avec capture de carbone.",
+      "Les batteries lithium-ion.",
+      "L'hydrogène vert.",
+      "Les centrales au charbon propres."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Pourquoi la fonte du permafrost est-elle préoccupante en termes d'émissions de gaz à effet de serre ?",
+    "choix": [
+      "Elle libère principalement de l'ozone (O₃) dans l'atmosphère.",
+      "Elle entraîne la libération de méthane (CH₄) et de dioxyde de carbone (CO₂).",
+      "Elle réduit la capacité des océans à absorber le carbone.",
+      "Elle augmente la réflectivité de la surface terrestre."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel est le principal facteur naturel qui explique les variations climatiques sur des échelles géologiques longues ?",
+    "choix": [
+      "Les cycles solaires.",
+      "Les cycles de Milankovitch.",
+      "L'activité volcanique continue.",
+      "L'effet rebond énergétique."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est une des limites des scénarios prospectifs décrites dans le document ?",
+    "choix": [
+      "Ils ne tiennent pas compte des énergies renouvelables.",
+      "Ils simplifient souvent les états transitoires de la transition énergétique.",
+      "Ils sous-estiment la disponibilité des combustibles fossiles.",
+      "Ils ne prennent pas en compte l'acceptabilité sociale des technologies."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel mécanisme explique pourquoi une augmentation de température peut entraîner une hausse de la vapeur d'eau ?",
+    "choix": [
+      "La vapeur d'eau se transforme directement en CO₂ dans l'atmosphère.",
+      "La température élevée favorise la condensation et la formation de nuages.",
+      "Une atmosphère plus chaude peut contenir davantage de vapeur d'eau.",
+      "Les océans absorbent moins de vapeur d'eau à des températures plus élevées."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel est l'impact principal de l'acidification des océans sur les écosystèmes marins ?",
+    "choix": [
+      "Augmentation de la productivité des récifs coralliens.",
+      "Diminution de la capacité des espèces marines à former des coquilles calcaires.",
+      "Accélération de la chaîne alimentaire marine.",
+      "Réduction du méthane émis par les fonds marins."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Selon le document, quel mode de transport a l'empreinte énergétique la plus faible par passager-kilomètre ?",
+    "choix": ["La voiture.", "L'avion.", "Le train.", "Le bus."],
+    "reponse": 3
+  },
+  {
+    "question": "Dans les projections climatiques, quelle variable est le plus directement influencée par les concentrations de gaz à effet de serre ?",
+    "choix": [
+      "Les courants océaniques.",
+      "Les températures globales.",
+      "Les cycles lunaires.",
+      "Les fluctuations gravitationnelles."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel type d'énergie est considéré comme 'primaire' selon le document ?",
+    "choix": [
+      "L'énergie électrique distribuée.",
+      "Le pétrole brut.",
+      "La lumière produite par une ampoule.",
+      "L'énergie issue d'une batterie."
+    ],
+    "reponse": 2
   }
 ]
