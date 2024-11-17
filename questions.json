@@ -1,0 +1,289 @@
+[
+  {
+    "question": "Le cours de développement durable est",
+    "choix": [
+      "Un moyen de comprendre les actions des entreprises dans ce domaine.",
+      "Un cours utile pour votre future carrière d'ingénieur.",
+      "Un cours commun obligatoire en culture générale pour les ingénieurs.",
+      "Une aide pour analyser l'impact des activités humaines sur le climat."
+    ],
+    "reponse": [1, 2, 3, 4]
+  },
+  {
+    "question": "Depuis 1981, de combien de degrés, en moyenne, chaque décennie se réchauffe-t-elle ?",
+    "choix": [
+      "0°C",
+      "1°C",
+      "1,5°C",
+      "0,2°C"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "À quelle date le GIEC a-t-il été créé ?",
+    "choix": [
+      "2000",
+      "1988",
+      "1970",
+      "1992"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Combien y aura-t-il d'habitants sur la planète en 2050 selon le scénario le plus probable ?",
+    "choix": [
+      "12 milliards",
+      "Presque 10 milliards",
+      "Plus de 15 milliards",
+      "Plus de 6 milliards"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "L’utilisation des machines a modifié :",
+    "choix": [
+      "La température moyenne de la Terre",
+      "La structure de la société",
+      "Le pouvoir d’achat des ménages",
+      "Le temps de travail"
+    ],
+    "reponse": [1, 4]
+  },
+  {
+    "question": "Une matrice de matérialité des enjeux RSE permet de :",
+    "choix": [
+      "Définir les enjeux prioritaires d’une entreprise en termes de RSE",
+      "Faire travailler ensemble les différentes équipes autour de l’approche RSE de l’entreprise",
+      "Impliquer les parties prenantes dans la stratégie RSE de l’entreprise"
+    ],
+    "reponse": [1, 3]
+  },
+  {
+    "question": "Quelle est l’empreinte écologique d’un Français ?",
+    "choix": [
+      "2,7 planètes",
+      "3,2 planètes",
+      "5 planètes",
+      "0,7 planète"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Selon Isabelle Boemeke, dans le Ted Talk qu’elle anime :",
+    "choix": [
+      "Nuclear energy is cool",
+      "Nuclear energy is no need",
+      "Nuclear energy is dangerous",
+      "Nuclear energy is not cool"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Plastic Omnium est :",
+    "choix": [
+      "Une entreprise qui traite le recyclage du plastique pour ne pas qu'il flotte dans les océans mangé par les tortues",
+      "Un fabricant de gobelets en plastique recyclé garantis à vie",
+      "Un équipementier automobile qui s'est engagé dans une feuille de route de neutralité carbone"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Que signifie l’acronyme GIEC ?",
+    "choix": [
+      "Groupe Intergouvernemental d’Experts sur l’Évolution du Climat",
+      "Groupe d’Illustres Écologistes et Climatologues",
+      "Groupe Intergouvernemental sur l’Écologie et le Climat",
+      "Groupuscule d’Inconditionnels Explorateurs du Climat"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Que signifie l’acronyme RSE ?",
+    "choix": [
+      "Reseaux Sociaux de l’Environnement",
+      "Respect Scrupuleux de l’Environnement",
+      "Responsabilité Sociétale des Entreprises",
+      "Rien de Social dans les Entreprises"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Selon le Rapport Brundtland, quelle est la définition du Développement Durable ?",
+    "choix": [
+      "Le développement durable est un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures à venir à répondre à leurs propres besoins.",
+      "Le développement durable est un développement qui répond aux besoins des pays les plus riches sans prendre en compte le besoin de développement des pays les plus pauvres.",
+      "Le développement durable est un développement qui répond aux besoins matériels des êtres humains jusqu'à épuisement de toutes les ressources naturelles."
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Les limites planétaires définissent :",
+    "choix": [
+      "Le nombre maximum de voyages en jet autorisés par an",
+      "Une campagne de publicité organisée par les végétariens",
+      "Les limites qu’il ne faudrait pas dépasser pour vivre dans un espace de développement sûr et juste",
+      "La limite de la terre quand t temps vers l'infini"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Les êtres humains sont des “animaux cumulatifs” :",
+    "choix": [
+      "Faux : ils adorent la sobriété, ça va donc être facile de sauver la planète",
+      "Vrai : ils ont toujours besoin de consommer plus, ça fait partie de leur modèle de réussite"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est la définition du changement climatique ?",
+    "choix": [
+      "Comparaison des données météo à travers les siècles en prenant en compte le nombre de précipitations au cours d'une année",
+      "Mesure des températures sur une même zone géographique à la même période pendant plusieurs siècles",
+      "Ça n'existe pas, il n'y a donc pas de définition",
+      "ariation des valeurs moyennes des paramètres météorologiques (précipitations, températures, ...) mesurées sur de longues périodes et sur des zones géographiques vastes"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "À quoi correspond le jour du dépassement ?",
+    "choix": [
+      "La date à compter de laquelle l’humanité a consommé l’ensemble des ressources que la planète peut générer en 1 année",
+      "Le jour où les 1,5° de l’accord de Paris auront été dépassés",
+      "Le jour à partir duquel le Gouvernement français conseille de chauffer son habitation à 19°"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Une entreprise qui adopte un modèle de développement durable a forcément des performances financières qui baissent :",
+    "choix": [
+      "Faux",
+      "Vrai"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est le nom donné à la loi sur la gestion des actions RSE des fournisseurs ?",
+    "choix": [
+      "Le Devoir de Vigilance",
+      "La Loi du comportement responsable",
+      "La Taxonomie"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La puissance utilisée par un aspirateur équivaut à la puissance produite par :",
+    "choix": [
+      "10 paires de jambes",
+      "50 paires de jambes",
+      "2 paires de jambes"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Les débats organisés pendant le cours de développement durable ont permis un échange d'idées :",
+    "choix": [
+      "Faux, il n’y a pas eu de débats",
+      "Vrai : sur la réalité du changement climatique",
+      "Vrai : sur le ressenti de la canicule",
+      "Faux, tout le monde était d’accord"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Qu’est-ce qu’une entreprise responsable :",
+    "choix": [
+      "Une entreprise qui travaille à supprimer ses impacts négatifs sur l’environnement",
+      "Une entreprise qui s’occupe uniquement de sa croissance financière",
+      "Une entreprise qui a refait son logo en y ajoutant de la couleur verte"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le nom du Rapport qui donne en 1987 la première définition du Développement Durable ?",
+    "choix": [
+      "Le Rapport Brundtland",
+      "Le Rapport de Stockholm",
+      "Le Rapport Vert",
+      "Le Rapport des Nations Unies"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pour mettre en place une stratégie Développement Durable, il faut :",
+    "choix": [
+      "Établir une feuille de route climat",
+      "Suivre la performance extra-financière",
+      "Fixer des objectifs",
+      "Définir les enjeux prioritaires",
+      "Impliquer la gouvernance de l’entreprise"
+    ],
+    "reponse": [1, 2, 3, 4, 5]
+  },
+  {
+    "question": "Quels impacts sur l’environnement peuvent générer les activités d’une entreprise ?",
+    "choix": [
+      "Utilisation des matières premières",
+      "Pollutions de l’eau, de l’air, des sols",
+      "Émissions de CO2"
+    ],
+    "reponse": [1, 2, 3]
+  },
+  {
+    "question": "Dans quel pays a eu lieu le drame du Rana Plaza (effondrement d’une usine de confection textile sur ses ouvriers) qui a donné lieu à la loi sur le Devoir de Vigilance ?",
+    "choix": [
+      "Inde",
+      "Chine",
+      "Bangladesh",
+      "Pologne"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Pour respecter les accords de Paris et le changement climatique à 1,5°, de combien doit-on réduire notre empreinte carbone tous les ans d’ici 2050 ?",
+    "choix": [
+      "20 %",
+      "10 %",
+      "1 %",
+      "5 %"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Où a eu lieu le premier sommet de la Terre ?",
+    "choix": [
+      "Paris",
+      "Rio de Janeiro",
+      "Stockholm",
+      "Kyoto"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Le développement durable est un cercle vertueux entremêlant :",
+    "choix": [
+      "Économie/Écologie/Social",
+      "Économie/Croissance/Épuisement des ressources",
+      "Écologie/Décroissance/Sobriété"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Dans la caricature de Graeme MacKay, la plus grosse vague représente :",
+    "choix": [
+      "Le changement climatique",
+      "La COVID-19",
+      "La récession",
+      "L’effondrement de la biodiversité"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "À quelle date a eu lieu le premier Jour de la Terre ?",
+    "choix": [
+      "22 avril 1970",
+      "31 décembre 2000",
+      "10 mars 1950"
+    ],
+    "reponse": 1
+  }
+]
