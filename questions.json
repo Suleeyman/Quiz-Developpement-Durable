@@ -11,43 +11,33 @@
   },
   {
     "question": "Depuis 1981, de combien de degrés, en moyenne, chaque décennie se réchauffe-t-elle ?",
-    "choix": [
-      "0°C",
-      "1°C",
-      "1,5°C",
-      "0,2°C"
-    ],
+    "choix": ["0°C", "1°C", "1,5°C", "0,2°C"],
     "reponse": 4
   },
   {
     "question": "À quelle date le GIEC a-t-il été créé ?",
-    "choix": [
-      "2000",
-      "1988",
-      "1970",
-      "1992"
-    ],
-    "reponse": 3
+    "choix": ["2000", "1988", "1970", "1992"],
+    "reponse": 2
   },
   {
     "question": "Combien y aura-t-il d'habitants sur la planète en 2050 selon le scénario le plus probable ?",
     "choix": [
-      "12 milliards",
-      "Presque 10 milliards",
-      "Plus de 15 milliards",
-      "Plus de 6 milliards"
+      "Environ 12 milliards",
+      "Environ 10 milliards",
+      "Environ 15 milliards",
+      "Environ 6 milliards"
     ],
-    "reponse": 3
+    "reponse": 2
   },
   {
-    "question": "L’utilisation des machines a modifié :",
+    "question": "RSE est l'acronyme de : ",
     "choix": [
-      "La température moyenne de la Terre",
-      "La structure de la société",
-      "Le pouvoir d’achat des ménages",
-      "Le temps de travail"
+      "Responsabilité Sécuritaire de l'Environnement",
+      "Responsabilité Sociétale des Entreprises",
+      "Responsabilité Sociale et Environnementale",
+      "Responsabilité Sociale des Écosystèmes"
     ],
-    "reponse": [1, 4]
+    "reponse": 2
   },
   {
     "question": "Une matrice de matérialité des enjeux RSE permet de :",
@@ -57,16 +47,6 @@
       "Impliquer les parties prenantes dans la stratégie RSE de l’entreprise"
     ],
     "reponse": [1, 3]
-  },
-  {
-    "question": "Quelle est l’empreinte écologique d’un Français ?",
-    "choix": [
-      "2,7 planètes",
-      "3,2 planètes",
-      "5 planètes",
-      "0,7 planète"
-    ],
-    "reponse": 1
   },
   {
     "question": "Selon Isabelle Boemeke, dans le Ted Talk qu’elle anime :",
@@ -90,111 +70,73 @@
   {
     "question": "Que signifie l’acronyme GIEC ?",
     "choix": [
-      "Groupe Intergouvernemental d’Experts sur l’Évolution du Climat",
+      "Groupe d'experts Intergouvernemental sur l'Évolution du Climat",
       "Groupe d’Illustres Écologistes et Climatologues",
       "Groupe Intergouvernemental sur l’Écologie et le Climat",
-      "Groupuscule d’Inconditionnels Explorateurs du Climat"
+      "Groupe d'Infaillibles Explorateurs de solutions déCarbonisées"
     ],
     "reponse": 1
-  },
-  {
-    "question": "Que signifie l’acronyme RSE ?",
-    "choix": [
-      "Reseaux Sociaux de l’Environnement",
-      "Respect Scrupuleux de l’Environnement",
-      "Responsabilité Sociétale des Entreprises",
-      "Rien de Social dans les Entreprises"
-    ],
-    "reponse": 3
   },
   {
     "question": "Selon le Rapport Brundtland, quelle est la définition du Développement Durable ?",
     "choix": [
-      "Le développement durable est un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures à venir à répondre à leurs propres besoins.",
-      "Le développement durable est un développement qui répond aux besoins des pays les plus riches sans prendre en compte le besoin de développement des pays les plus pauvres.",
-      "Le développement durable est un développement qui répond aux besoins matériels des êtres humains jusqu'à épuisement de toutes les ressources naturelles."
+      "Le développement durable est un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs.",
+      "Le développement durable est un développement qui répond aux besoins des pays.",
+      "Le développement durable est un développement qui répond aux besoins matériels des êtres humains."
     ],
     "reponse": 1
   },
   {
-    "question": "Les limites planétaires définissent :",
+    "question": "Une limite planétaire définit :",
     "choix": [
-      "Le nombre maximum de voyages en jet autorisés par an",
-      "Une campagne de publicité organisée par les végétariens",
-      "Les limites qu’il ne faudrait pas dépasser pour vivre dans un espace de développement sûr et juste",
-      "La limite de la terre quand t temps vers l'infini"
+      "Le nombre maximum d'êtres humains que peut supporter la Terre",
+      "L’enrichissement de la couche d’ozone",
+      "Les seuils au-delà desquels les équilibres naturels terrestres pourraient être destabilisés et les conditions de vie devenir défavorables à l’humanité",
+      "La limite des ressources terrestres quand t tend vers l'infini"
     ],
     "reponse": 3
   },
   {
-    "question": "Les êtres humains sont des “animaux cumulatifs” :",
+    "question": "GES est l'acronyme de :",
     "choix": [
-      "Faux : ils adorent la sobriété, ça va donc être facile de sauver la planète",
-      "Vrai : ils ont toujours besoin de consommer plus, ça fait partie de leur modèle de réussite"
+      "Gaz, Écologie et Sécurité",
+      "Gaz à Effet de Serre",
+      "Gaz, Environnement et Société",
+      "Gisement de pétrole et l'Écologie Souterraine"
     ],
     "reponse": 2
   },
   {
     "question": "Quelle est la définition du changement climatique ?",
     "choix": [
-      "Comparaison des données météo à travers les siècles en prenant en compte le nombre de précipitations au cours d'une année",
+      "L’augmentation dans l’atmosphère de la concentration en gaz à effet de serre du fait des activités humaines perturbe les équilibres climatiques de long terme à l’échelle planétaire",
       "Mesure des températures sur une même zone géographique à la même période pendant plusieurs siècles",
-      "Ça n'existe pas, il n'y a donc pas de définition",
-      "ariation des valeurs moyennes des paramètres météorologiques (précipitations, températures, ...) mesurées sur de longues périodes et sur des zones géographiques vastes"
+      "La combustion de pétrole sur une zone géographiques étendues",
+      "L'amélioration des techniques et procédés permettant aux agriculteurs de réduire les dégâts causés par une catastrophe naturelle"
     ],
-    "reponse": 4
+    "reponse": 1
   },
   {
     "question": "À quoi correspond le jour du dépassement ?",
     "choix": [
-      "La date à compter de laquelle l’humanité a consommé l’ensemble des ressources que la planète peut générer en 1 année",
-      "Le jour où les 1,5° de l’accord de Paris auront été dépassés",
-      "Le jour à partir duquel le Gouvernement français conseille de chauffer son habitation à 19°"
+      "Le jour où les 1,5°C de l’accord de Paris auront été dépassés sans qu'on puisse revenir en arrière",
+      "Le jour à partir duquel le Gouvernement français à signer l'accord de Paris",
+      "La date de l'année à partir de laquelle l’humanité est supposée avoir consommé l’ensemble des ressources naturelles que la planète est capable de produire en un an.",
+      "La date d'adoption de l'Accord de Paris sur le climat et qui correspond au 12 décembre 2015"
     ],
-    "reponse": 1
+    "reponse": 3
   },
   {
     "question": "Une entreprise qui adopte un modèle de développement durable a forcément des performances financières qui baissent :",
-    "choix": [
-      "Faux",
-      "Vrai"
-    ],
+    "choix": ["Faux", "Vrai"],
     "reponse": 1
   },
   {
-    "question": "Quelle est le nom donné à la loi sur la gestion des actions RSE des fournisseurs ?",
+    "question": "Qu'est-ce qu'une entreprise responsable est une",
     "choix": [
-      "Le Devoir de Vigilance",
-      "La Loi du comportement responsable",
-      "La Taxonomie"
-    ],
-    "reponse": 1
-  },
-  {
-    "question": "La puissance utilisée par un aspirateur équivaut à la puissance produite par :",
-    "choix": [
-      "10 paires de jambes",
-      "50 paires de jambes",
-      "2 paires de jambes"
-    ],
-    "reponse": 2
-  },
-  {
-    "question": "Les débats organisés pendant le cours de développement durable ont permis un échange d'idées :",
-    "choix": [
-      "Faux, il n’y a pas eu de débats",
-      "Vrai : sur la réalité du changement climatique",
-      "Vrai : sur le ressenti de la canicule",
-      "Faux, tout le monde était d’accord"
-    ],
-    "reponse": 4
-  },
-  {
-    "question": "Qu’est-ce qu’une entreprise responsable :",
-    "choix": [
-      "Une entreprise qui travaille à supprimer ses impacts négatifs sur l’environnement",
-      "Une entreprise qui s’occupe uniquement de sa croissance financière",
-      "Une entreprise qui a refait son logo en y ajoutant de la couleur verte"
+      "Entreprise qui travaille et met en place des initiatives de fond pour le développement durable",
+      "Entreprise qui s’occupe de sa croissance financière",
+      "Entreprise qui fait des dons aux aussociations qui défendent la cause écologique"
     ],
     "reponse": 1
   },
@@ -209,81 +151,45 @@
     "reponse": 1
   },
   {
-    "question": "Pour mettre en place une stratégie Développement Durable, il faut :",
-    "choix": [
-      "Établir une feuille de route climat",
-      "Suivre la performance extra-financière",
-      "Fixer des objectifs",
-      "Définir les enjeux prioritaires",
-      "Impliquer la gouvernance de l’entreprise"
-    ],
-    "reponse": [1, 2, 3, 4, 5]
-  },
-  {
-    "question": "Quels impacts sur l’environnement peuvent générer les activités d’une entreprise ?",
-    "choix": [
-      "Utilisation des matières premières",
-      "Pollutions de l’eau, de l’air, des sols",
-      "Émissions de CO2"
-    ],
-    "reponse": [1, 2, 3]
-  },
-  {
     "question": "Dans quel pays a eu lieu le drame du Rana Plaza (effondrement d’une usine de confection textile sur ses ouvriers) qui a donné lieu à la loi sur le Devoir de Vigilance ?",
-    "choix": [
-      "Inde",
-      "Chine",
-      "Bangladesh",
-      "Pologne"
-    ],
+    "choix": ["Inde", "Chine", "Bangladesh", "Italie"],
     "reponse": 3
   },
   {
-    "question": "Pour respecter les accords de Paris et le changement climatique à 1,5°, de combien doit-on réduire notre empreinte carbone tous les ans d’ici 2050 ?",
+    "question": "Qu'est-ce que le sommet de la Terre ?",
     "choix": [
-      "20 %",
-      "10 %",
-      "1 %",
-      "5 %"
-    ],
-    "reponse": 4
-  },
-  {
-    "question": "Où a eu lieu le premier sommet de la Terre ?",
-    "choix": [
-      "Paris",
-      "Rio de Janeiro",
-      "Stockholm",
-      "Kyoto"
-    ],
-    "reponse": 3
-  },
-  {
-    "question": "Le développement durable est un cercle vertueux entremêlant :",
-    "choix": [
-      "Économie/Écologie/Social",
-      "Économie/Croissance/Épuisement des ressources",
-      "Écologie/Décroissance/Sobriété"
+      "Une rencontre décennale organisée par l'ONU pour définir les moyens de stimuler le développement durable au niveau mondial",
+      "La montagne Evrest située dans la chaîne de l'Himalaya"
     ],
     "reponse": 1
   },
   {
-    "question": "Dans la caricature de Graeme MacKay, la plus grosse vague représente :",
+    "question": "Où a eu lieu le premier sommet de la Terre ?",
+    "choix": ["Paris", "Rio de Janeiro", "Stockholm", "Kyoto"],
+    "reponse": 3
+  },
+  {
+    "question": "Où a eu lieu le dernier sommet de la Terre ?",
     "choix": [
-      "Le changement climatique",
-      "La COVID-19",
-      "La récession",
-      "L’effondrement de la biodiversité"
+      "Johannesbourg",
+      "Rio de Janeiro",
+      "Stockholm",
+      "Nairobi (Kenya)"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Qu'est-ce que le premier Jour de la Terre ?",
+    "choix": [
+      "Une célébration environnementale instaurée par la société suite à la catastrophe « La marée noire de Santa Barbara »",
+      "Le 01 Janvier 2000",
+      "Une célébration environnementale instaurée par les USA suite à la crise pétrolière de 1973"
     ],
     "reponse": 1
   },
   {
     "question": "À quelle date a eu lieu le premier Jour de la Terre ?",
-    "choix": [
-      "22 avril 1970",
-      "31 décembre 2000",
-      "10 mars 1950"
-    ],
+    "choix": ["22 avril 1970", "31 décembre 2000", "10 mars 1950"],
     "reponse": 1
   },
   {
@@ -387,7 +293,7 @@
     "reponse": 2
   },
   {
-    "question": "Quelle est la définition exacte de l'énergie telle qu'expliquée dans le document ?",
+    "question": "Quelle est la définition exacte de l'énergie ?",
     "choix": [
       "La capacité d'un système à effectuer un travail mécanique uniquement.",
       "La capacité d'un système à provoquer un changement, comme produire du mouvement, de la chaleur ou de la lumière.",
@@ -397,7 +303,7 @@
     "reponse": 2
   },
   {
-    "question": "Quelle unité d'énergie suivante n'est PAS utilisée pour mesurer l'énergie dans le document ?",
+    "question": "Quelle unité d'énergie suivante n'est PAS utilisée pour mesurer l'énergie ?",
     "choix": [
       "Joule (J)",
       "Kilowatt-heure (kWh)",
@@ -407,7 +313,7 @@
     "reponse": 4
   },
   {
-    "question": "Pourquoi les énergies fossiles dominent-elles encore la consommation mondiale selon le document ?",
+    "question": "Pourquoi les énergies fossiles dominent-elles encore la consommation mondiale ?",
     "choix": [
       "Elles sont les seules disponibles en grandes quantités.",
       "Elles ont une densité énergétique élevée, sont faciles à utiliser et bon marché.",
@@ -427,12 +333,27 @@
     "reponse": 2
   },
   {
+    "question": "Le bois est une énergie renouvellabe",
+    "choix": ["Vrai", "Faux"],
+    "reponse": 1
+  },
+  {
     "question": "Quelle est la densité énergétique approximative du bois, en kWh/kg ?",
     "choix": ["6,6 kWh/kg", "4,5 kWh/kg", "12,6 kWh/kg", "0,1 kWh/kg"],
     "reponse": 2
   },
   {
-    "question": "Le Taux de Retour Énergétique (TRE) du pétrole non conventionnel est :",
+    "question": "TRE est l'acronyme de :",
+    "choix": [
+      "Taux de Retour Environnementale",
+      "Taux de Renforcement Environnementale",
+      "Taux de Réajustement Énergétique",
+      "Taux de Retour Énergétique"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Le Taux de Retour Énergétique du pétrole non conventionnel est :",
     "choix": [
       "Équivalent à celui des énergies fossiles conventionnelles.",
       "Supérieur à celui des énergies renouvelables.",
@@ -442,7 +363,17 @@
     "reponse": 3
   },
   {
-    "question": "Quel pourcentage de l'énergie mondiale est consommée par le secteur tertiaire selon le document ?",
+    "question": "L'énergie primaire la plus utilisée est :",
+    "choix": [
+      "pétrole (32 %) devant le gaz naturel (27 %) et le charbon (22 %)",
+      "pétrole (32 %) devant le charbon (27 %) et le gaz naturel (22 %)",
+      "charbon (32 %) devant le pétrole (27 %) et le gaz naturel (22 %)",
+      "pétrole (32 %) devant le charbon (27 %) et le bois (22 %)"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel pourcentage de l'énergie mondiale est consommée par le secteur tertiaire ?",
     "choix": ["15%", "25%", "10%", "30%"],
     "reponse": 1
   },
@@ -457,7 +388,7 @@
     "reponse": 2
   },
   {
-    "question": "Selon les scénarios RTE, quelle combinaison d'énergie est considérée pour une transition énergétique ?",
+    "question": "Selon les scénarios RTE (Réseau de Transport d’Electricité), quelle combinaison d'énergie est considérée pour une transition énergétique ?",
     "choix": [
       "Uniquement les énergies fossiles avec réduction des émissions.",
       "Une combinaison d'énergies renouvelables et de nucléaire.",
@@ -473,16 +404,6 @@
       "Lorsque la température baisse, la glace fond, diminuant l'albédo et réchauffant la planète.",
       "Lorsque la température augmente, la glace fond, réduisant l'albédo et augmentant l'absorption de chaleur.",
       "Lorsque la température baisse, l'eau absorbe plus de CO₂, amplifiant l'effet de serre."
-    ],
-    "reponse": 3
-  },
-  {
-    "question": "Quelle est la principale source d'énergie reçue par la Terre, selon le document ?",
-    "choix": [
-      "Le volcanisme.",
-      "La géothermie.",
-      "Le Soleil.",
-      "Les rayons cosmiques."
     ],
     "reponse": 3
   },
@@ -509,7 +430,7 @@
   {
     "question": "Quelle proportion des émissions de gaz à effet de serre est absorbée par les océans aujourd'hui ?",
     "choix": ["Environ 50%.", "Environ 93%.", "Environ 25%.", "Environ 70%."],
-    "reponse": 3
+    "reponse": 2
   },
   {
     "question": "Quel gaz à effet de serre a le pouvoir de réchauffement le plus important par molécule ?",
@@ -517,7 +438,7 @@
     "reponse": 2
   },
   {
-    "question": "Quels secteurs économiques en France contribuent le plus aux émissions de CO₂ selon le document ?",
+    "question": "Quels secteurs économiques en France contribuent le plus aux émissions de CO₂ ?",
     "choix": [
       "L'agriculture et les bâtiments.",
       "L'industrie et les transports.",
@@ -542,7 +463,7 @@
     "reponse": 3
   },
   {
-    "question": "Qu'est-ce qui caractérise la 'précarité énergétique' telle qu'elle est décrite dans le document ?",
+    "question": "Qu'est-ce qui caractérise la 'précarité énergétique' ?",
     "choix": [
       "Un manque d'accès aux énergies fossiles.",
       "Une part importante des revenus d'un ménage consacrée aux dépenses énergétiques.",
@@ -552,24 +473,13 @@
     "reponse": 2
   },
   {
-    "question": "Quelle technologie est considérée comme un levier clé pour la décarbonation selon les scénarios prospectifs ?",
+    "question": "Qu'est-ce que le pergélisol (permafrost en anglais) ?",
     "choix": [
-      "Les énergies fossiles avec capture de carbone.",
-      "Les batteries lithium-ion.",
-      "L'hydrogène vert.",
-      "Les centrales au charbon propres."
+      "Est la fonte de la glace située dans l'hémisphère Nord",
+      "Est la glaciation puis la fonte instantanée d'une partie de l'océan",
+      "Est un terme géologique qui désigne un sol dont la température se maintient en dessous de 0°C pendant plus de deux ans"
     ],
     "reponse": 3
-  },
-  {
-    "question": "Pourquoi la fonte du permafrost est-elle préoccupante en termes d'émissions de gaz à effet de serre ?",
-    "choix": [
-      "Elle libère principalement de l'ozone (O₃) dans l'atmosphère.",
-      "Elle entraîne la libération de méthane (CH₄) et de dioxyde de carbone (CO₂).",
-      "Elle réduit la capacité des océans à absorber le carbone.",
-      "Elle augmente la réflectivité de la surface terrestre."
-    ],
-    "reponse": 2
   },
   {
     "question": "Quel est le principal facteur naturel qui explique les variations climatiques sur des échelles géologiques longues ?",
@@ -582,7 +492,7 @@
     "reponse": 2
   },
   {
-    "question": "Quelle est une des limites des scénarios prospectifs décrites dans le document ?",
+    "question": "Quelle est une des limites des scénarios prospectifs ?",
     "choix": [
       "Ils ne tiennent pas compte des énergies renouvelables.",
       "Ils simplifient souvent les états transitoires de la transition énergétique.",
@@ -617,17 +527,7 @@
     "reponse": 3
   },
   {
-    "question": "Dans les projections climatiques, quelle variable est le plus directement influencée par les concentrations de gaz à effet de serre ?",
-    "choix": [
-      "Les courants océaniques.",
-      "Les températures globales.",
-      "Les cycles lunaires.",
-      "Les fluctuations gravitationnelles."
-    ],
-    "reponse": 2
-  },
-  {
-    "question": "Quel type d'énergie est considéré comme 'primaire' selon le document ?",
+    "question": "Quel type d'énergie est considéré comme 'primaire' ?",
     "choix": [
       "L'énergie électrique distribuée.",
       "Le pétrole brut.",
@@ -635,5 +535,195 @@
       "L'énergie issue d'une batterie."
     ],
     "reponse": 2
+  },
+  {
+    "question": "Quel est l'ordre de grandeur du nombre « d'esclave énergétiques » nécessaires à un français moyen pour satisfaire ses besoin d'énergie ?",
+    "choix": [
+      "6",
+      "60",
+      "600",
+      "6000"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle est la part des énergies fossiles dans la consommation d'énergie finale mondiale ?",
+    "choix": [
+      "30 %",
+      "50%",
+      "80 %",
+      "95 %"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Laquelle de ces propositions ne fait pas partie des avantages du pétrole ?",
+    "choix": [
+      "Sa facilité de transport lié à son caractère liquide",
+      "Facilité de stockage liée à une densité énergétique élevée",
+      "Des infrastructures énergétiques existantes et déjà amorties",
+      "Des prix stables sur les marchés"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Laquelle de ces affirmations est fausse concernant le lien entre énergie, climat et société ?",
+    "choix": [
+      "La consommation d'énergie du secteur du bâtiment en France est restée stable malgré l'amélioration de l'efficacité énergétique des logements",
+      "L'accès facilité à l'énergie a favorisé l'étalement urbain axé sur l'utilisation de la voiture",
+      "Le transfert d'emploi des secteurs agricoles et indusriels vers le secteur tertiaire est permis par la disponibilité de l'énergie",
+      "Le découble absolu entre émissions de gaz à effet de serre liées à nos consommations d'énergie et Produit Intérieur Brut (PIB) est impossible"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Parmi ces causes ayant pu influencer les prix de l'énergie, laquelle est dite structurelle ?",
+    "choix": [
+      "Pandémie de COVID",
+      "Internalisation des coûts environnementaux (taxe et quota carbone)",
+      "Indisponibilité technique d'une partie du parc nucléaire à cette période",
+      "Guerre en Ukraine"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Identifier le seul facteur n'étant pas une cause potentiel de précarité énergétique",
+    "choix": [
+      "Un logement mal isolé",
+      "Des revenus faibles",
+      "Un logement trop petit",
+      "Une grande distance domicile-travail parcourue en voiture"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle part du bilan énergétique de la terre représente le rayonnement solaire ?",
+    "choix": [
+      "30 %",
+      "60 %",
+      "80 %",
+      "99 %"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "En quoi le changement climatique anthropique (provoqué par l'homme) est-il inédit dans l'histoire du climat ?",
+    "choix": [
+      "Le changement de température est très rapide",
+      "Le chagement de température est de grande amplitude",
+      "Les températures pourraient atteindre des niveaux jamais vu dans l'histoire du climat",
+      "Les réponses A, B et C"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle est l'empreinte carbone moyenne d'un français ?",
+    "choix": [
+      "200 kg de CO2",
+      "2 tonnes de CO2",
+      "10 tonnes de CO2",
+      "100 tonnes de CO2"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel niveau doit atteindre notre empreint carbone pour rester sous les 2°C ?",
+    "choix": [
+      "200 kg de CO2",
+      "2 tonnes de CO2",
+      "10 tonnes de CO2",
+      "100 tonnes de CO2"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quel élément est comptabilisé dans l'« empreinte carbone » mais pas dans l'« inventaire carbone » ?",
+    "choix": [
+      "Émissions liées aux importations",
+      "Émissions liées aux exportations",
+      "Émissions des transports internationaux",
+      "réponse A, B et C"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle est la principale problématique des collectiviés publiques en matière de transition énergétiques ?",
+    "choix": [
+      "Le financement des projets",
+      "Le manque de technologies disponibles",
+      "La résistance des citoyens",
+      "Les régulations trop strictes"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle unité est utilisée pour chiffrer les Certificats d'Économie d'Énergie ?",
+    "choix": [
+      "kWh cumulés et actualisés",
+      "kWh cumulés et certifiés",
+      "kWh actualisés et certifiés",
+      "kWh mesurés et certifiés"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quels sont les bâtiments concernés par le décret tertiaire ?",
+    "choix": [
+      "L'ensemble des bâtiments tertiaires",
+      "L'ensemble des bâtiments tertiaires hormis les sites industriels",
+      "Les bâtiments disposant d'une surface tertiaire de plus de 1 000 m²",
+      "Les bâtiments tertiaires les plus consommateurs d'énergie"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel est l'objectif de réduction de la consommation d'énergie des bâtiments assujettis au décret tertiaire d'ici 2030 ?",
+    "choix": [
+      "30 %",
+      "40 %",
+      "50 %",
+      "60 %"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle action permet de répondre aux objectifs du décret tertiaire ?",
+    "choix": [
+      "Installer une chaudière bois",
+      "Isoler l'enveloppe du bâtiment",
+      "Mettre en place des bornes de recharge électrique",
+      "Stopper l'activité au sein du bâtiment pendant l'activité"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle action présente généralement le temps de retour sur investissement le plus intéressant ?",
+    "choix": [
+      "Isolation thermique par l'extérieur",
+      "Mise en place de panneaux solaire photovoltaïque",
+      "Mise en place d'un système de régulation et d'optimisation du chauffage",
+      "Mise en place d'une pompte à chaleur"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel est l'indicateur le plus souvent regardé pour juger un projet d'investissement sur un bâtimeent ?",
+    "choix": [
+      "Le temps de retour sur investissement",
+      "Le taux de rentabilité interne",
+      "Le CAPEX",
+      "L'OPEX"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel élément joue le plus sur la rentabilité d'un projet d'installation de panneaux photovoltaïques",
+    "choix": [
+      "Le prix de marché de l'électricité",
+      "La durée de vie des panneaux",
+      "Le coût de maintenance des panneaux",
+      "L'emplacement géographique du projet en France"
+    ],
+    "reponse": 3
   }
 ]
