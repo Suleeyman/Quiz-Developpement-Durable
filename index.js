@@ -88,10 +88,6 @@ class Card {
 
       let correct = true;
       selectedAnswers.forEach((s) => {
-        console.log(s.dataset);
-        console.log(s.dataset.correct);
-        console.log(!s.dataset.correct);
-
         if (!s.dataset.correct) {
           correct = false;
           s.classList.add("wrong");
@@ -139,10 +135,10 @@ class Quizz {
   }
 
   start() {
-    this.#shuffledQuestions = this.#questions;
-    // .map((value) => ({ value, sort: Math.random() }))
-    // .sort((a, b) => a.sort - b.sort)
-    // .map(({ value }) => value);
+    this.#shuffledQuestions = this.#questions
+      .map((value) => ({ value, sort: Math.random() }))
+      .sort((a, b) => a.sort - b.sort)
+      .map(({ value }) => value);
 
     this.correctAnswers = this.incorrectAnswers = this.notAnswered = 0;
     this.score.setScore(0, 0, 0);
