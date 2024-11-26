@@ -564,7 +564,7 @@
       "Des infrastructures énergétiques existantes et déjà amorties",
       "Des prix stables sur les marchés"
     ],
-    "reponse": 3
+    "reponse": 4
   },
   {
     "question": "Laquelle de ces affirmations est fausse concernant le lien entre énergie, climat et société ?",
@@ -574,7 +574,7 @@
       "Le transfert d'emploi des secteurs agricoles et indusriels vers le secteur tertiaire est permis par la disponibilité de l'énergie",
       "Le découble absolu entre émissions de gaz à effet de serre liées à nos consommations d'énergie et Produit Intérieur Brut (PIB) est impossible"
     ],
-    "reponse": 3
+    "reponse": 4
   },
   {
     "question": "Parmi ces causes ayant pu influencer les prix de l'énergie, laquelle est dite structurelle ?",
@@ -604,7 +604,7 @@
       "80 %",
       "99 %"
     ],
-    "reponse": 3
+    "reponse": 4
   },
   {
     "question": "En quoi le changement climatique anthropique (provoqué par l'homme) est-il inédit dans l'histoire du climat ?",
@@ -614,7 +614,7 @@
       "Les températures pourraient atteindre des niveaux jamais vu dans l'histoire du climat",
       "Les réponses A, B et C"
     ],
-    "reponse": 3
+    "reponse": 4
   },
   {
     "question": "Quelle est l'empreinte carbone moyenne d'un français ?",
@@ -644,7 +644,7 @@
       "Émissions des transports internationaux",
       "réponse A, B et C"
     ],
-    "reponse": 3
+    "reponse": 1
   },
   {
     "question": "Quelle est la principale problématique des collectiviés publiques en matière de transition énergétiques ?",
@@ -654,7 +654,7 @@
       "La résistance des citoyens",
       "Les régulations trop strictes"
     ],
-    "reponse": 3
+    "reponse": 1
   },
   {
     "question": "Quelle unité est utilisée pour chiffrer les Certificats d'Économie d'Énergie ?",
@@ -664,7 +664,7 @@
       "kWh actualisés et certifiés",
       "kWh mesurés et certifiés"
     ],
-    "reponse": 3
+    "reponse": 1
   },
   {
     "question": "Quels sont les bâtiments concernés par le décret tertiaire ?",
@@ -684,7 +684,7 @@
       "50 %",
       "60 %"
     ],
-    "reponse": 3
+    "reponse": 2
   },
   {
     "question": "Quelle action permet de répondre aux objectifs du décret tertiaire ?",
@@ -694,7 +694,7 @@
       "Mettre en place des bornes de recharge électrique",
       "Stopper l'activité au sein du bâtiment pendant l'activité"
     ],
-    "reponse": 3
+    "reponse": 2
   },
   {
     "question": "Quelle action présente généralement le temps de retour sur investissement le plus intéressant ?",
@@ -704,7 +704,7 @@
       "Mise en place d'un système de régulation et d'optimisation du chauffage",
       "Mise en place d'une pompte à chaleur"
     ],
-    "reponse": 3
+    "reponse": 2
   },
   {
     "question": "Quel est l'indicateur le plus souvent regardé pour juger un projet d'investissement sur un bâtimeent ?",
@@ -714,7 +714,7 @@
       "Le CAPEX",
       "L'OPEX"
     ],
-    "reponse": 3
+    "reponse": 2
   },
   {
     "question": "Quel élément joue le plus sur la rentabilité d'un projet d'installation de panneaux photovoltaïques",
@@ -724,6 +724,16 @@
       "Le coût de maintenance des panneaux",
       "L'emplacement géographique du projet en France"
     ],
-    "reponse": 3
+    "reponse": 1
+  },
+  {
+    "question": "1 tonne d'équivalent pétrole (tep) équivaut à :",
+    "choix": [
+      "10 630 kWh",
+      "11 630 kWh",
+      "10 053 kWh",
+      "11 053 kWh"
+    ],
+    "reponse": 2
   }
 ]
